@@ -937,6 +937,7 @@ algorithms, knowledgebase and AI technology.
 * [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](https://dedicatedornot.com)
 * [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
+* [DMCA Detector](https://www.dmcadetector.com/) - Check any domain against Google's public copyright-removal (DMCA) record: which requests name it, who filed them, which URLs were listed, whether Google acted, and the underlying Lumen notice. Free account required for full request details.
 * [DNS History](https://completedns.com/dns-history/)
 * [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, DKIM discovery, SPF/DMARC analysis and blacklist checks with plain-English results, no signup.
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
